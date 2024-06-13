@@ -1,0 +1,29 @@
+
+By default server is localhost:4000
+
+<!-- To get all Vehicles -->
+/vehicle
+
+<!-- to get single vehicle details -->
+/vehicles/:Id
+
+<!-- to get cabBooking -->
+/CabBook
+
+<!-- to post cabBooking -->
+/CabBook
+
+<!-- to get previous Bookings -->
+/History
+
+<!-- to get offers -->
+/Offer
+
+<!-- to post offers -->
+/Offer
+
+<!-- to get wallet Balance -->
+/Balance
+
+<!-- to put wallet Balance -->
+/Balance
